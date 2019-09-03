@@ -1,0 +1,151 @@
+,Rank,Title,TitleLength,Age,Point,NumberOfComment
+0,1,RFC-1149: IP over Avian Carriers,32,2 hours,69,26
+1,2,CSS Grid Level 2 – subgrid is coming to Firefox,47,5 hours,170,39
+2,3,OpenBSD Recent Security Innovations,35,2 hours,51,16
+3,4,“Apps intended for kids may not include third-party advertising or analytics”,77,6 hours,710,216
+4,5,Show HN: Bloom – A free and open source 'Google',48,7 hours,324,115
+5,6,"macOS deprecating scripting language runtimes, including Python, Ruby, and Perl",79,3 hours,53,41
+6,7,Why GitHub use Haskell for their newly released Semantic package,64,2 hours,39,21
+7,8,"Actix-web 1.0 – A small, pragmatic, and fast web framework for Rust",67,10 hours,471,119
+8,9,The Perpetual Diamond: Contrast Reversal Along Edges Create Appearance of Motion,80,3 hours,39,4
+9,10,Flexport is hiring software engineers for our humanitarian relief logistics team,80,34 minutes,0,0
+10,11,Web Programming with Continuations (2002) [pdf],47,27 minutes,5,0
+11,12,Why It Is Important That Software Projects Fail (2008),54,3 hours,65,3
+12,13,Why Linked Lists Are an Interview Staple,40,30 minutes,12,1
+13,14,Arc.io – A Crowdfunded Distributed CDN,38,5 hours,68,18
+14,15,How do I delete bytes from the beginning of a file? (2010),58,4 hours,38,46
+15,16,How does Apple privately find offline devices?,46,4 hours,156,92
+16,17,PSPTool Is a Swiss Army Knife for the Firmware of the AMD Secure Processor,74,8 hours,132,34
+17,18,Writing a game engine in pure C: The Graphic Initialization,59,11 hours,237,109
+18,19,"Quantum Leaps, Long Assumed to Be Instantaneous, Take Time",58,9 hours,170,76
+19,20,On the Impact of Programming Languages on Code Quality,54,11 hours,220,108
+20,21,The Euthanasia That Wasn’t,26,5 hours,79,29
+21,22,"Amazon Unveils New Alexa Dialog Modeling for Natural, Cross-Skill Conversations",79,7 hours,84,18
+22,23,Languages of India,18,10 hours,155,166
+23,24,The charm of buying old workstation hardware on the cheap,57,12 hours,200,257
+24,25,Crystal 0.29,12,1 hour,19,0
+25,26,Using machine learning to estimate lost demand in a fulfillment chain,69,7 hours,73,6
+26,27,Witcraft by Jonathan Rée and the History of Philosophy by AC Grayling,69,1 hour,4,0
+27,28,The DevOps Phenomenon: An executive crash course,48,6 hours,57,35
+28,29,Statistical Rethinking: A Bayesian Course Using R and Stan,58,13 hours,191,12
+29,30,Requiem for a Sports Bettor,27,3 hours,21,2
+30,31,Julia Summer of Einsum,22,8 hours,76,16
+31,32,The Forecaster: The Man Who Decided D-Day,41,8 hours,67,7
+32,33,"Bees can link symbols to numbers, study finds",45,13 hours,151,55
+33,34,Peloton Confidentially Files Statement for Proposed IPO,55,10 hours,78,150
+34,35,Distributed Locks Are Dead; Long Live Distributed Locks,55,11 hours,93,14
+35,36,"How Canary Deployments Work in Kubernetes, Istio and Linkerd",60,6 hours,35,5
+36,37,Firefox Monitor,15,13 hours,509,203
+37,38,Notice of Security Incident,27,6 hours,33,15
+38,39,Why aren’t more companies remote-first?,39,12 hours,420,423
+39,40,Plausible Deniability and Gaslighting in Fighting Ad Blockers,61,10 hours,211,115
+40,41,The cutting-edge of cutting: How Japanese scissors have evolved (2018),70,15 hours,379,105
+41,42,Show HN: 3D multiplayer space shooter made with Three.js,56,13 hours,107,36
+42,43,Biggest Offender in Outsize Debt: Master’s Degrees,50,8 hours,134,143
+43,44,Xz format inadequate for long-term archiving (2016),51,13 hours,87,46
+44,45,Amazon Unveils Futuristic Helicopter-Plane Hybrid Drone for Deliveries,70,7 hours,140,99
+45,46,Grin: Whole program optimizer for lazy and strict functional languages,70,2 hours,3,0
+46,47,Firefox Now Available with Enhanced Tracking Protection by Default,66,1 day,1009,261
+47,48,The Helpful Bystander: Current Evidence from CCTV-Captured Public Conflicts,75,2 hours,3,0
+48,49,Bloom – Super fast and highly configurable cache for REST APIs,62,12 hours,62,6
+49,50,Mark Twain's Portfolio,22,2 hours,3,0
+50,51,Sealed Rust: A plan to bring Rust to safety critical software domains,69,8 hours,160,32
+51,52,An Updated Lead-Crime Roundup (2018),36,15 hours,56,8
+52,53,When Grown-Ups Get Caught in Teens’ AirDrop Crossfire,53,7 hours,22,2
+53,54,Ebola cases pass 2k as crisis escalates,39,10 hours,163,95
+54,55,Carnival Cruise Lines Hit with $20M Penalty for Environmental Crimes,68,9 hours,161,53
+55,56,It is a myth that a large share of people can’t cover a $400 emergency expense,78,3 hours,5,4
+56,57,Outcry as Australian police search public broadcaster,53,10 hours,233,106
+57,58,Large-Scale Long-Tailed Recognition in an Open World,52,10 hours,24,1
+58,59,Neural Jump SDEs (Jump Diffusions) and Neural PDEs,50,8 hours,30,3
+59,60,Minimalist Software Architecture,32,4 hours,5,0
+60,61,Winston Churchill’s Closest Confidant,37,6 hours,10,6
+61,62,How I Made $200k When I Was 16 Years Old Through Coding (2018),62,23 hours,563,203
+62,63,YouTube to Remove Thousands of Videos Pushing Extreme Views,59,9 hours,226,606
+63,64,Ask HN: How to Publish on Your Own?,35,7 hours,38,26
+64,65,An update on last week's customer shutdown incident,51,1 day,546,256
+65,66,US to label nuclear waste as less dangerous to quicken cleanup,62,1 hour,6,0
+66,67,How to make biodegradable 'plastic' from cactus juice [video],61,18 hours,58,10
+67,68,Fan Is a Tool-Using Animal (2013),33,7 hours,10,0
+68,69,The Science Behind Why Some Are Shy,35,11 hours,86,60
+69,70,"Show HN: This page is a truly naked, brutalist HTML quine",57,1 day,578,89
+70,71,SEC Charges Kik With Conducting $100M Unregistered ICO,54,1 day,528,324
+71,72,How to tell an engineering candidate they didn't get the job,60,7 hours,10,6
+72,73,UK energy bills 'used to subsidise nuclear submarines',54,15 hours,29,70
+73,74,National Park Typeface,22,1 day,598,82
+74,75,FBI Records: Bigfoot (1976),27,7 hours,82,49
+75,76,Facebook “official” outs uploader to journalist,47,1 hour,3,0
+76,77,Our ongoing work to tackle hate,31,9 hours,35,33
+77,78,Show HN: Spy Codes: free booklet for kids (2018),48,18 hours,68,8
+78,79,Ford Is Fined in China,22,9 hours,54,66
+79,80,"When it comes to privacy, default settings matter",49,1 day,437,127
+80,81,Show HN: Translate English to SQL,33,21 hours,190,39
+81,82,"Protecting Sleep in the Hospital, for Both Patients and Doctors",63,22 hours,177,102
+82,83,Flares is a CloudFlare DNS backup tool,38,14 hours,26,18
+83,84,Our Fate Is in the Stars,24,20 hours,46,32
+84,85,Why Generalists Triumph in a Specialized World,46,1 day,517,237
+85,86,The Army ignored her about a dangerous colleague. Then he set her on fire,73,4 hours,12,1
+86,87,How Command Line Parameters Are Parsed (2009),45,16 hours,37,3
+87,88,History Professor banned from YouTube because he had clips of Nazi Propaganda,77,2 hours,19,10
+88,89,Flying-V: Flying long distances energy-efficiently,50,1 day,384,275
+89,90,Microsoft and Oracle link up their clouds,41,9 hours,37,9
+90,91,Taiwan bucks world trend to be No. 1 in semiconductor equipment spending,72,21 hours,130,29
+91,92,"Overlooked No More: Alan Turing, Condemned Code Breaker and Computer Visionary",78,5 hours,11,1
+92,93,GitHub removes 5 years of One Hour One Life designer's work,59,20 hours,292,136
+93,94,Rethinking Visual Programming with Go,37,23 hours,191,64
+94,95,Printing Therapeutic Proteins in 3D Using Nanoengineered Bioink,63,9 hours,6,1
+95,96,Deep Learning Models (80 Jupyter Notebooks),43,6 hours,5,0
+96,97,"Surreal CMS is now free for personal, educational, and non-profit websites",74,6 hours,4,3
+97,98,"Show HN: First Crack, a simple static blog engine in Python",59,1 day,40,11
+98,99,Kids App Market,15,1 day,59,36
+99,100,Why do airlines still mislay 25M bags a year?,45,16 hours,63,78
+100,101,Researchers solve mystery of the galaxy with no dark matter,59,1 day,62,34
+101,102,There are now more people over sixty-four than children younger than five,73,14 hours,157,204
+102,103,"Arpanet, Part 2: The Packet",27,19 hours,43,4
+103,104,What does it mean when a product is “Amazon’s Choice”?,54,1 day,228,124
+104,105,"Proposal: A built-in Go error check function, try",49,23 hours,129,110
+105,106,Solving Programming Puzzles Without Using Your Brain,52,19 hours,112,15
+106,107,Vim/Neovim Arbitrary Code Execution via Modelines,49,1 day,214,100
+107,108,Zero Rupee Note,15,2 days,763,233
+108,109,Join Firefox – Take your stand against an industry that’s making you the product,80,1 day,46,0
+109,110,Make America Great Again by Cracking Down on Tax Havens,55,12 hours,37,0
+110,111,BT devices are breaking Android notifs. with dupl. alerts and ignored settings,78,2 hours,4,1
+111,112,"Apple asks developers to place its login button above Google, Facebook",70,14 hours,8,3
+112,113,Family swamped by avalanche of bills after son’s death: 'It’s continuous',73,2 hours,4,1
+113,114,Android Q Beta 4 and Final APIs,31,7 hours,3,0
+114,115,"We are Collage: Dada, Instagram, and the future of AI",53,21 hours,23,1
+115,116,Valve has mutated from a game developer into a financial middleman,66,1 day,305,255
+116,117,Roundup’s Risks Could Go Well Beyond Cancer,43,11 hours,130,123
+117,118,Aerc – An email client that runs in the terminal,48,1 day,706,255
+118,119,Building a lock free continuous ring buffer in Rust,51,1 day,193,101
+119,120,Ancient Siberia was home to previously unknown humans,53,8 hours,3,0
+120,121,List of inventors killed by their own inventions,48,14 hours,11,2
+121,122,"Ask HN: What tools do you use for note-taking, progress tracking and TODO lists?",80,19 hours,34,47
+122,123,US International Students Lose Internships Because of Outdated Work Policies,76,1 day,168,114
+123,124,Adafruit Founder Limor Fried: Open-Source Hardware Revolution [video],69,1 day,184,52
+124,125,The Process: Transforming SpaCy's Docs (2018),45,15 hours,12,1
+125,126,Interview on ”Bayesian Statistics the Fun Way”,46,1 day,214,48
+126,127,‘Sign in with Apple’ button terms and conditions are raising concerns,69,7 hours,14,5
+127,128,Tara Vancil on exploring how to be online in radical ways (2018),64,1 day,43,10
+128,129,Compromising online accounts by cracking voicemail systems,58,1 day,46,9
+129,130,An update on Sunday’s service disruption,40,1 day,376,208
+130,131,Relicensing CockroachDB,23,1 day,474,281
+131,132,Controversial U.S. bill would lift Supreme Court ban on patenting human genes,77,12 hours,168,80
+132,133,Apple Asks Developers to Put 'Sign in with Apple' Above Other Sign-In Options,77,5 hours,6,1
+133,134,Antitrust Troubles Snowball for Tech Giants as Lawmakers Join In,64,2 days,382,297
+134,135,"If anyone can give us a real Facebook alternative, it’s Apple",61,4 hours,7,2
+135,136,NSA Cybersecurity Advisory: Patch Remote Desktop Services on Legacy Windows,75,1 day,76,34
+136,137,A Summer of Julia 2019,22,1 day,44,4
+137,138,Meta-Learners – Learning how to learn,37,1 day,207,7
+138,139,The Bloom Clock,15,1 day,205,43
+139,140,Cat Declawing Is Banned by New York State Lawmakers,51,23 hours,120,93
+140,141,Why Does Google Know Everything You’ve Bought on Amazon for the Past Six Years?,79,1 day,34,32
+141,142,Sleeping in Doesn’t Mitigate Metabolic Changes Linked to Sleep Deficit,70,20 hours,15,0
+142,143,Lo-fi hiphop beats mixed with live police scanners,50,1 day,102,29
+143,144,Annotated Hacker News traffic since the beginning,49,1 day,152,45
+144,145,Apple is now a privacy-as-a-service company,43,1 day,691,460
+145,146,Mental Health App Talkspace Raises $50M,39,1 day,28,26
+146,147,FBI alleges that DC Solar Scammed Berkshire Hathaway for Millions,65,1 day,119,87
+147,148,Writing a formally-verified image browser in Coq and Haskell (2017),67,10 hours,4,1
+148,149,Joseph Menn on the Cult of the Dead Cow,39,1 day,41,15
+149,150,Taiwan's digital minister on combatting disinformation without censorship,73,2 days,490,133
